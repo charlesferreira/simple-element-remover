@@ -10,17 +10,11 @@ Simple Element Remover is a Chrome extension that allows users to select and rem
 
 ## Installation
 
-1. Clone the repository or download the ZIP file.
+Simple Element Remover is available on the Chrome Web Store. Follow these steps to install:
 
-   ```sh
-   git clone https://github.com/charlesferreira/simple-element-remover.git
-   ```
-
-2. Open Chrome and go to `chrome://extensions/`.
-
-3. Enable "Developer mode" in the top right corner.
-
-4. Click on "Load unpacked" and select the folder where you cloned or unzipped the repository.
+1. Go to the [Simple Element Remover page on the Chrome Web Store](#).
+2. Click the "Add to Chrome" button.
+3. Confirm the installation by clicking "Add Extension" in the pop-up dialog.
 
 ## Usage
 
