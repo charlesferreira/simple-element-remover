@@ -4,5 +4,8 @@
     },
     "extDescription": {
         "message": "Remove elementos da página"
+    },
+    "commandDescription": {
+        "message": "Alternar removedor de elementos"
     }
 }

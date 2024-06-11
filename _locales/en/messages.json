@@ -4,5 +4,8 @@
     },
     "extDescription": {
         "message": "Remove elements from the page"
+    },
+    "commandDescription": {
+        "message": "Toggle element remover"
     }
 }
