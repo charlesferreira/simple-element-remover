@@ -12,7 +12,7 @@ Simple Element Remover is a Chrome extension that allows users to select and rem
 
 Simple Element Remover is available on the Chrome Web Store. Follow these steps to install:
 
-1. Go to the [Simple Element Remover page on the Chrome Web Store](#).
+1. Go to the [Simple Element Remover page on the Chrome Web Store](https://chromewebstore.google.com/detail/removedor-de-elementos-si/olhabochkiainlhboiajcjbjjpmnapkp).
 2. Click the "Add to Chrome" button.
 3. Confirm the installation by clicking "Add Extension" in the pop-up dialog.
 
